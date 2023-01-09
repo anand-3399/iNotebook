@@ -1,0 +1,5 @@
+For running the application of mongoose
+
+npx nodemon .\index.js
+or
+npx nodemon .
