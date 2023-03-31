@@ -1,3 +1,131 @@
+<div align="center">
+  <p align="center">
+    INotebook - Your Notebook on the cloud
+    <br />
+    <br />
+    <a href="https://github.com/anand-3399/iNotebook/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/anand-3399/iNotebook/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+An online web platform where you can create, edit, upload, delete your notes/information privately and securely without any disturbancee. For more info you can checkout our About Page
+
+### Project Images
+
+* All Notes!
+![1680288031503](image/README/1680288031503.png)
+
+* Add New Note
+![1680287630921](image/README/1680287630921.png)
+
+* Edit Note
+![1680288184063](image/README/1680288184063.png)
+
+* Login Page
+![1680287406376](image/README/1680287406376.png)
+
+* Register Page
+![1680288231492](image/README/1680288231492.png)
+
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [React.js](https://reactjs.org/)
+* [Nodejs](https://nodejs.org/en/)
+* [Expressjs](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [MUI](https://mui.com/)
+* [mongoose](https://mongoosejs.com/)
+* [Bootstrap](https://getbootstrap.com)
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/yashfalke77/iNotebook
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Set up MongoDB by installing MongoDB Community Edition and MongoDB Compass
+
+3. Run the project
+   ```sh
+    npm run both
+    ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Anand Jaiswar - [@anand-3399](https://www.instagram.com/anand-3399/) - anandjaiswar02@gmail.com
+
+Project Link: [iNotebook](https://github.com/anand-3399/iNotebook)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Made from the tutorial of code with harry , so thanks to him :)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,23 +136,23 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
