@@ -18,19 +18,15 @@ An online web platform where you can create, edit, upload, delete your notes/inf
 ### Project Images
 
 * All Notes!
-![1680288031503](image/README/1680288031503.png)
-
+  ![1680288031503](image/README/1680288031503.png)
 * Add New Note
-![1680287630921](image/README/1680287630921.png)
-
+  ![1680287630921](image/README/1680287630921.png)
 * Edit Note
-![1680288184063](image/README/1680288184063.png)
-
+  ![1680288184063](image/README/1680288184063.png)
 * Login Page
-![1680287406376](image/README/1680287406376.png)
-
+  ![1680287406376](image/README/1680287406376.png)
 * Register Page
-![1680288231492](image/README/1680288231492.png)
+  ![1680288231492](image/README/1680288231492.png)
 
 ### Built With
 
@@ -45,6 +41,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Bootstrap](https://getbootstrap.com)
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -53,6 +50,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -60,26 +58,27 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-
 1. Clone the repo
+
    ```sh
-   git clone https://github.com/yashfalke77/iNotebook
+   git clone https://github.com/anand-3399/iNotebook
    ```
 2. Install NPM packages
+
    ```sh
    npm install
    ```
 3. Set up MongoDB by installing MongoDB Community Edition and MongoDB Compass
+4. Run the project
 
-3. Run the project
    ```sh
     npm run both
-    ```
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -95,18 +94,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Anand Jaiswar - [@anand-3399](https://www.instagram.com/anand-3399/) - anandjaiswar02@gmail.com
@@ -115,16 +112,13 @@ Project Link: [iNotebook](https://github.com/anand-3399/iNotebook)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Made from the tutorial of code with harry , so thanks to him :)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 # Getting Started with Create React App
 
